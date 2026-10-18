@@ -23,8 +23,8 @@ I'm interested in **Data Science, backend development, APIs, and game developmen
 
 ### 📫 Contact
 
-- **GitHub:** [@haruu](https://github.com/haruu)
-- **Email:** your-email@example.com
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- **GitHub:** [@userHaruu](https://github.com/userHaruu)
+- **Email:** haruu.dev@gmail.com
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/juan-sebastian-correa-gaviria-791236312)
 
 Always happy to connect with other developers, exchange ideas, and learn from new projects and people.
